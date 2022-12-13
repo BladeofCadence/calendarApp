@@ -16,6 +16,8 @@
 		93FDF9A12948146700C9C0B5 /* calendarAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF9A02948146700C9C0B5 /* calendarAppTests.swift */; };
 		93FDF9AB2948146700C9C0B5 /* calendarAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF9AA2948146700C9C0B5 /* calendarAppUITests.swift */; };
 		93FDF9AD2948146700C9C0B5 /* calendarAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF9AC2948146700C9C0B5 /* calendarAppUITestsLaunchTests.swift */; };
+		93FDF9BA29481CFF00C9C0B5 /* calendarcell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF9B929481CFF00C9C0B5 /* calendarcell.swift */; };
+		93FDF9BC2948273B00C9C0B5 /* calendarHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FDF9BB2948273B00C9C0B5 /* calendarHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		93FDF9A62948146700C9C0B5 /* calendarAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calendarAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93FDF9AA2948146700C9C0B5 /* calendarAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calendarAppUITests.swift; sourceTree = "<group>"; };
 		93FDF9AC2948146700C9C0B5 /* calendarAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calendarAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		93FDF9B929481CFF00C9C0B5 /* calendarcell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calendarcell.swift; sourceTree = "<group>"; };
+		93FDF9BB2948273B00C9C0B5 /* calendarHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calendarHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				93FDF98B2948146600C9C0B5 /* SceneDelegate.swift */,
 				93FDF98D2948146600C9C0B5 /* ViewController.swift */,
 				93FDF98F2948146600C9C0B5 /* Main.storyboard */,
+				93FDF9BB2948273B00C9C0B5 /* calendarHelper.swift */,
+				93FDF9B929481CFF00C9C0B5 /* calendarcell.swift */,
 				93FDF9922948146700C9C0B5 /* Assets.xcassets */,
 				93FDF9942948146700C9C0B5 /* LaunchScreen.storyboard */,
 				93FDF9972948146700C9C0B5 /* Info.plist */,
@@ -261,6 +267,8 @@
 				93FDF98E2948146600C9C0B5 /* ViewController.swift in Sources */,
 				93FDF98A2948146600C9C0B5 /* AppDelegate.swift in Sources */,
 				93FDF98C2948146600C9C0B5 /* SceneDelegate.swift in Sources */,
+				93FDF9BA29481CFF00C9C0B5 /* calendarcell.swift in Sources */,
+				93FDF9BC2948273B00C9C0B5 /* calendarHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
